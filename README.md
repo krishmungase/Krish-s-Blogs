@@ -18,4 +18,4 @@ MyBlog is a responsive blog website built using React, Tailwind CSS, and leverag
 
 # This Video Preview
 
-- https://github.com/krishmungase/Krish-s-Blogs/assets/143822729/b4109b34-de71-4c67-ada1-774b86bd49b4
+https://github.com/krishmungase/Krish-s-Blogs/assets/143822729/b4109b34-de71-4c67-ada1-774b86bd49b4
