@@ -16,6 +16,6 @@ MyBlog is a responsive blog website built using React, Tailwind CSS, and leverag
 4. Hooks: Utilized hooks like useState and useContext for managing state and context.
 
 
-# This Video Preview
+# This is Video Preview of Krish's Blog
 
 https://github.com/krishmungase/Krish-s-Blogs/assets/143822729/b4109b34-de71-4c67-ada1-774b86bd49b4
